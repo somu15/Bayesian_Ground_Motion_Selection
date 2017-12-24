@@ -1,0 +1,20 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+BAYESIAN UNAMENABLE WORKSPACES
+
+1) W_Curtailed_NGA_West2.mat: This is the curtailed NGA-West2 workspace. It is not amenable to a Bayesian analysis, so,
+it needs to be processed by selecting the right option while executing Master.m
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+BAYESIAN AMENABLE WORKSPACES
+The workspaces can directly be utilized without any processing in the Master.m code.
+
+1) W_Sa0.667.mat: conditioning is made on SA at 0.667s at a hazard level of 2475yrs.
+2) W_Sa0.667_PGA.mat: conditioning is made on SA at 0.667s and on PGA at a hazard level of 2475yrs each.
+3) W_PGA_PGV.mat: conditioning is made on PGV and on PGA at a hazard level of 2475yrs each.
+4) W_Sa0.667_high_risk.mat: ground motions with Mw > 7 and Rjb < 35 Km. Conditioning IM is Sa(0.667s) at a hazard level
+of 2475yrs.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+WORKSPACES FOR PRIORS
+
+1) W_EXSIM_Priors1.mat:  Workspace consisting of EXSIM simulated ground motions with Mw > 7 and Rjb < 35 Km.  
