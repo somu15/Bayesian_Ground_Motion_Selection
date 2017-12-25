@@ -5,6 +5,7 @@ These are a set of codes to perform a Bayesian analysis of the Conditional Spect
 "A Bayesian Treatment of the Conditional Spectrum Approach for Ground Motion Selection". Report by Somayajulu Dhulipala, Jack Baker and Madeleine Flint.
 
 Created by Somayajulu Dhulipala, 20 May 2017
+
 Modified by Somayajulu Dhulipala, 23 December 2017
 
 PLEASE REPORT ANY ISSUES OR PROBLEMS WITH THIS CODE TO
