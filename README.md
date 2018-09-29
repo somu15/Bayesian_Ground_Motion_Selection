@@ -2,7 +2,7 @@
 These are a set of codes to perform a Bayesian analysis of the Conditional Spectrum approach for ground motion selection. A set of instructions to run the codes are provided below.
 
 # Corresponding paper
-"A Bayesian Treatment of the Conditional Spectrum Approach for Ground Motion Selection". Report by Somayajulu Dhulipala, Jack Baker and Madeleine Flint.
+"A Bayesian Treatment of the Conditional Spectrum Approach for Ground Motion Selection". Somayajulu Dhulipala (Virginia Tech), Jack Baker (Stanford), and Madeleine Flint (Virginia Tech).
 
 Created by Somayajulu Dhulipala, 20 May 2017
 
